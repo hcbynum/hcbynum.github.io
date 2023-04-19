@@ -1,0 +1,70 @@
+/*************************************************************************
+*
+* ADOBE CONFIDENTIAL
+* ___________________
+*
+*  Copyright 2012 Adobe Systems Incorporated
+*  All Rights Reserved.
+*
+* NOTICE:  All information contained herein is, and remains
+* the property of Adobe Systems Incorporated and its suppliers,
+* if any.  The intellectual and technical concepts contained
+* herein are proprietary to Adobe Systems Incorporated and its
+* suppliers and may be covered by U.S. and Foreign Patents,
+* patents in process, and are protected by trade secret or copyright law.
+* Dissemination of this information or reproduction of this material
+* is strictly forbidden unless prior written permission is obtained
+* from Adobe Systems Incorporated.
+*
+**************************************************************************/
+
+/* For Jquery Mobile Swatch Panel */
+
+.light, .light div, .light p {
+    color: #292929;
+}
+
+.light {
+    background-color: #F0F0F0;
+}
+
+.midLight, .midLight div, .midLight p {
+    color: #0D0D0D;
+}
+
+.midLight {
+    background-color: #CACACA;
+}
+
+.dark, .dark div, .dark p {
+    color: #CCCCCC;
+}
+
+.dark {
+    background-color: #323232;    
+}
+
+.midDark, .midDark div, .midDark p {
+    color: #D6D6D6;
+}
+
+.midDark {
+    background-color: #484848;
+}
+
+.dark hr {
+    border-top-color: #292929;
+}
+
+.light hr {
+    border-top-color:#DBDBDB;
+}
+
+.midDark hr {
+    border-top-color : #404040;
+}
+
+.midLight hr {
+    border-top-color: #A6A6A6;
+}
+
